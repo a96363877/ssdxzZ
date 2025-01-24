@@ -5,7 +5,6 @@ import { Toaster } from '@/components/ui/toaster';
 import Image from 'next/image';
 import Link from 'next/link';
 import { CartButton } from '@/components/cart-btn';
-import { Button } from '@/components/ui/button';
 import { Facebook, Instagram, Twitter, Youtube } from 'lucide-react';
 import Head from 'next/head';
 import { Loader } from '@/components/loader';
