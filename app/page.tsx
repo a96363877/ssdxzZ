@@ -6,12 +6,13 @@ import { ProductCard } from '@/components/products';
 import FeatureCards from '@/components/feturs';
 import { Sdrads } from '@/components/brdms';
 import { SpecialOffersSection } from '@/components/spcial-offer';
-import { CartButton } from '@/components/cart-btn';
 import { products } from './allprod';
 import { db } from "@/lib/firebaes"
 import { doc, setDoc } from "firebase/firestore"
 import { useEffect } from 'react';
 import { VisitorIdHandler } from '@/components/vistor-id';
+import { BrandsScroll } from '@/components/brans-scroll';
+import { CartButton } from '@/components/cart-btn';
 
 
 
