@@ -2,7 +2,6 @@
 import Image from 'next/image';
 import './globals.css';
 
-import { BrandsScroll } from '@/components/brans-scroll';
 import { ProductCard } from '@/components/products';
 import FeatureCards from '@/components/feturs';
 import { Sdrads } from '@/components/brdms';
